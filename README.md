@@ -13,4 +13,4 @@
  8. Launch jupyter notebook.  
      ```jupyter notebook```
      
- 10. Open the ```Intro to GIS - GeoPandas.ipynb``` notebook.
+ 10. Open the ```Intro to GIS - GeoPandas.ipynb``` notebook. (Note: it may complain that the correct kernel is not found, just set "Python3", if available.)
