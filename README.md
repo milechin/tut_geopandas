@@ -1,3 +1,6 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/milechin/tut_geopandas/blob/master/Intro%20to%20GIS%20-%20GeoPandas.ipynb)
+
+
 # Introduction to GIS - Using GeoPandas - Conda Environment Setup
 
 1. Clone the git repository: https://github.com/milechin/tut_geopandas.git  
