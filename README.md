@@ -1,6 +1,10 @@
-[![Open In Colab - With Code](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/milechin/tut_geopandas/blob/master/Intro_to_GIS_GeoPandas.ipynb)
 
-[![Open In Colab - Blank](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/milechin/tut_geopandas/blob/master/Intro_to_GIS_GeoPandas_blank.ipynb)
+### Open Notebook with Code in Google Colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/milechin/tut_geopandas/blob/master/Intro_to_GIS_GeoPandas.ipynb)
+
+
+### Open Blank Notebook in Google Colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/milechin/tut_geopandas/blob/master/Intro_to_GIS_GeoPandas_blank.ipynb)
 
 
 # Introduction to GIS - Using GeoPandas - Conda Environment Setup
