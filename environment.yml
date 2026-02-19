@@ -5,3 +5,4 @@ dependencies:
   - python=3.12.12
   - geopandas=1.1.1
   - jupyter
+  - ipykernel
